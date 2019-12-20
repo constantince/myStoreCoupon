@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import "./details.scss";
 function details() {
   return (
     <>
