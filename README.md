@@ -1,2 +1,0 @@
-# myStoreCoupon
-Created with CodeSandbox
